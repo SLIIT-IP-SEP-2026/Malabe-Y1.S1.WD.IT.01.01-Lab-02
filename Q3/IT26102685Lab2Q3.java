@@ -1,0 +1,14 @@
+public class IT26102685Lab2Q3 {
+	public static void main(String[] args){
+		double sideA = 3; 
+		double sideB = 4;
+		double hypotenuse;
+		
+		 hypotenuse = Math.sqrt(sideA*sideA + sideB*sideB);
+		System.out.println("Lenght of the hypotenuse :"+ hypotenuse);
+		
+		
+		
+	
+	}
+}
